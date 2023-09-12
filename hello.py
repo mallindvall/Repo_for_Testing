@@ -1,1 +1,1 @@
-print("Hello, today is a good day for git!!!")
+print("Hello, today is a good day for git!!")
